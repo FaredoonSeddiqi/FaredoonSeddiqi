@@ -1,9 +1,9 @@
-<h1 align="center">" Hi <img height="30px" src="https://unsplash.com/photos/workplace-of-contemporary-it-engineers-with-three-computers-standing-on-desk-in-large-openspace-office-uqx6IiVp18" />,     &nbspI'm Faredoon Seddiqi "</h1>
+<h1 align="center">" Hi <img height="30px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />,     &nbspI'm Faredoon Seddiqi "</h1>
 <h3 align="center">A Software Developer from Afghanistan.</h3>
 
 
 <hr/>
-<img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" />
+<img src="https://images.unsplash.com/photo-1605379399843-5870eea9b74e?q=80&w=1798&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 <hr/>
 
 <p>
