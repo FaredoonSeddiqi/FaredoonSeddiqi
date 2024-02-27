@@ -1,4 +1,4 @@
-<h1 align="center">" Hi <img height="30px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />,     &nbspI'm Faredoon Seddiqi "</h1>
+<h1 align="center">" Hi <img height="30px" src="https://unsplash.com/photos/workplace-of-contemporary-it-engineers-with-three-computers-standing-on-desk-in-large-openspace-office-uqx6IiVp18" />,     &nbspI'm Faredoon Seddiqi "</h1>
 <h3 align="center">A Software Developer from Afghanistan.</h3>
 
 
