@@ -58,7 +58,7 @@
 
 ## CV
 
-- 📎 [Resume/CV](https://github.com/FaredoonSeddiqi/FaredoonSeddiqi/raw/main/Faredoon CV and Cover Letter 2.pdf)
+- 📎 [Resume/CV](https://github.com/FaredoonSeddiqi/FaredoonSeddiqi/raw/main/FaredoonCVandCoverLetter2.pdf)
 <hr/>
 <br>
 
