@@ -17,7 +17,7 @@ Info
 🔭 I’m currently working as a Software Developer.<br/>
 🌱 I’m currently learning React Native, Android, System Level Interaction.<br/>
 👨‍💻 All of my projects are available on GitHub.<br/>
-💬 Ask me about Flutter, Dart, JavaScript, React Native, C++.
+💬 Ask me about Flutter, Dart, JavaScript, React Native, C++.<br/>
 📫 How to reach me out:
 <p align="center">
   <a href="https://www.linkedin.com/in/FaredoonSeddiqi/"><img src="https://img.shields.io/badge/-FaredoonSeddiqi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
