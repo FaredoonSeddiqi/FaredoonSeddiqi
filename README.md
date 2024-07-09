@@ -24,7 +24,7 @@ Info
   <a href="mailto:Faredoonseddiqi11@gmail.com"><img src="https://img.shields.io/badge/-Faredoon%20seddiqi11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
-![Profile view](https://komarev.com/ghpvc/?faredoonseddiqi&label=PROFILE+VIEWS)</p>
+![Faredoon's profile](https://komarev.com/ghpvc/?username=Faredoonseddiqi&label=Profile%20views&color=082036&style=flat)
 <hr/>
 Top Technologies
 <p align="center">
@@ -36,7 +36,6 @@ Top Technologies
 </p>
 <hr/>
 CV
-📎 Resume/CV
 <hr/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaredoonSeddiqi" alt="Faredoon Seddiqi's Streak Stats"/>
