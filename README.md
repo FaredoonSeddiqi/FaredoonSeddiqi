@@ -14,9 +14,9 @@
 </p>
 <hr/>
 Info
-🔭 I’m currently working as a Software Developer.
-🌱 I’m currently learning React Native, Android, System Level Interaction.
-👨‍💻 All of my projects are available on GitHub.
+🔭 I’m currently working as a Software Developer.<hr/>
+🌱 I’m currently learning React Native, Android, System Level Interaction.<hr/>
+👨‍💻 All of my projects are available on GitHub.<hr/>
 💬 Ask me about Flutter, Dart, JavaScript, React Native, C++.
 📫 How to reach me out:
 <p align="center">
