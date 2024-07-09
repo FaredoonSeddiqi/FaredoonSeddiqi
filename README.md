@@ -35,7 +35,8 @@ Top Technologies
   <img src="https://img.shields.io/badge/C++-%2314354C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
 <hr/>
-CV
+- 📎 [Resume/CV](https://github.com/FaredoonSeddiqi/FaredoonSeddiqi/blob/main/FaredoonCVandCoverLetter2.pdf)
+
 <hr/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaredoonSeddiqi" alt="Faredoon Seddiqi's Streak Stats"/>
