@@ -45,7 +45,7 @@
   ![FaredoonSeddiqi's profile](https://komarev.com/ghpvc/?username=FaredoonSeddiqi&label=Profile%20views&color=082036&style=flat)
    ![FaredoonSeddiqi's PORTFOLIO](https://faredoonseddiqi.netlify.app/)
 <hr/>
-
+ ![FaredoonSeddiqi's PORTFOLIO](https://faredoonseddiqi.netlify.app/)
 ## Top Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2314354C.svg?style=for-the-badge&logo=python&logoColor=whit)
