@@ -24,7 +24,7 @@ Info
   <a href="mailto:Faredoonseddiqi11@gmail.com"><img src="https://img.shields.io/badge/-Faredoon%20seddiqi11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
-![Profile view](https://komarev.com/ghpvc/?username=your-github-faredoonseddiqi&label=PROFILE+VIEWS)</p>
+![Profile view](https://komarev.com/ghpvc/?faredoonseddiqi&label=PROFILE+VIEWS)</p>
 <hr/>
 Top Technologies
 <p align="center">
