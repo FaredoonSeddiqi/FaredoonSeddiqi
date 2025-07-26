@@ -24,8 +24,6 @@ Info
   <a href="mailto:Faredoonseddiqi11@gmail.com"><img src="https://img.shields.io/badge/-Faredoon%20seddiqi11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
-![Faredoon's profile](https://komarev.com/ghpvc/?username=Faredoonseddiqi&label=Profile%20views&color=082036&style=flat)
-<hr/>
 Top Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2314354C.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
@@ -35,7 +33,6 @@ Top Technologies
   <img src="https://img.shields.io/badge/C++-%2314354C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
 <hr/>
-- 📎 [Resume/CV](https://github.com/FaredoonSeddiqi/FaredoonSeddiqi/blob/main/FaredoonCVandCoverLetter2.pdf)
 
 <hr/>
 <p align="center">
